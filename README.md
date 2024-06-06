@@ -1,2 +1,2 @@
 # msw
-Гра "Сапер" (Puthon 3, Tkinter)
+Гра "Сапер" (Python 3, Tkinter)
